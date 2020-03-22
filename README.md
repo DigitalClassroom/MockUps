@@ -1,2 +1,2 @@
 # MockUps
-Showing the MockUps of out Application
+Showing the MockUps of our Application
